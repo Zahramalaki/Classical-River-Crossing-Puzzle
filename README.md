@@ -1,5 +1,5 @@
 # Classical-River-Crossing-Puzzle
-The river crossing puzzle is a classical problem in computer science, which is mainly about some entities crossing a river with some limitations.
+ The river crossing puzzle is a classical problem in computer science, which is mainly about some entities crossing a river with some limitations.
 I have solved the problem with the following entities: boat, policeman, thief, mother, father, son1, son2, girl1, and girl2.
 Father, mother, two sisters, and two brothers along with a thief and a policeman are on one side of the river, which I consider region1. All these people want to go to the other side of the river, which I consider region2.<br /><br />
 It's noticeable to know that the following restrictions must be enforced in the solution :
@@ -11,5 +11,4 @@ It's noticeable to know that the following restrictions must be enforced in the 
 6. The boat cannot move unless it contains one entity at least.
 ![image](https://github.com/Zahramalaki/Classical-River-Crossing-Puzzle/assets/120048692/c1e52245-e310-4d27-94ca-e807a5848dcb)
 
-**This project is based on programming principles! Therefore, it's object-oriented and also it implements SOLID principles.**\
-**Additionally, multi-threading has been used and I process the possible solutions in parallel with four threads.**
+**This project is based on programming principles! Therefore, it's object-oriented and also it implements SOLID principles. Additionally, multi-threading has been used and I have processed the possible solutions in parallel with four threads.**
